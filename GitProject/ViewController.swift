@@ -15,7 +15,10 @@ class ViewController: UIViewController {
         
         print("this is design")
     }
-
+    
+    override func didReceiveMemoryWarning() {
+        print("warning...")
+    }
 
 }
 
