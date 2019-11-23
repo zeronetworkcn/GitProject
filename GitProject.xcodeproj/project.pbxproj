@@ -13,6 +13,8 @@
 		4AA9A95E2389639C00A627A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA9A95C2389639C00A627A6 /* Main.storyboard */; };
 		4AA9A9602389639D00A627A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AA9A95F2389639D00A627A6 /* Assets.xcassets */; };
 		4AA9A9632389639D00A627A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AA9A9612389639D00A627A6 /* LaunchScreen.storyboard */; };
+		4AA9A96B2389717F00A627A6 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA9A96A2389717F00A627A6 /* TestViewController.swift */; };
+		4AA9A96D2389718800A627A6 /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA9A96C2389718800A627A6 /* NewsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4AA9A95F2389639D00A627A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AA9A9622389639D00A627A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AA9A9642389639D00A627A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AA9A96A2389717F00A627A6 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		4AA9A96C2389718800A627A6 /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				4AA9A9582389639C00A627A6 /* SceneDelegate.swift */,
 				4AA9A95A2389639C00A627A6 /* ViewController.swift */,
 				4AA9A95C2389639C00A627A6 /* Main.storyboard */,
+				4AA9A96A2389717F00A627A6 /* TestViewController.swift */,
+				4AA9A96C2389718800A627A6 /* NewsViewController.swift */,
 				4AA9A95F2389639D00A627A6 /* Assets.xcassets */,
 				4AA9A9612389639D00A627A6 /* LaunchScreen.storyboard */,
 				4AA9A9642389639D00A627A6 /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				4AA9A95B2389639C00A627A6 /* ViewController.swift in Sources */,
 				4AA9A9572389639C00A627A6 /* AppDelegate.swift in Sources */,
+				4AA9A96B2389717F00A627A6 /* TestViewController.swift in Sources */,
+				4AA9A96D2389718800A627A6 /* NewsViewController.swift in Sources */,
 				4AA9A9592389639C00A627A6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
